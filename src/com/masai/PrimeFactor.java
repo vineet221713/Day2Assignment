@@ -1,6 +1,6 @@
 package com.masai;
 
-public class PrimeFactorial {
+public class PrimeFactor {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
