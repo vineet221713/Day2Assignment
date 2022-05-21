@@ -1,4 +1,4 @@
-package day2assignment;
+package com.masai;
 
 public class PrimeFactorial {
 
